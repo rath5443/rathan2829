@@ -1,0 +1,33 @@
+{
+  "basic":{
+    "photo":"download.png",
+    "name":"Rathan Chinthala",
+    "email":"rathanvenkat143@gmail.com",
+    "mobile":"944444555"
+  },
+  "Education":[
+    {
+      "course":"B.Tech(Computer science and Engineering)",
+      "Institution":[
+        "G.pullaiah college of Engineering",
+        "2015-2019",
+        "70"
+      ]
+    },
+    {
+    "course":"Intermediate",
+    "Institution":[
+      "Narayana junior college",
+      "2013-2015",
+      "90"
+    ]
+  },
+  {
+  "course":"SSC",
+  "Institution":[
+    "Keshava Reddy Residential School",
+    "2012-2013",
+    "90"]
+  }
+  ]
+}
