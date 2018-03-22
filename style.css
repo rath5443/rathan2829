@@ -135,3 +135,10 @@ h2{
     color: black;
   }
 }
+table,
+  td {
+    border: 1px solid black;
+    border-collapse:inherit;
+    border-style: inset;
+    border-width: 3px;
+}
