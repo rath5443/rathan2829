@@ -3,7 +3,7 @@
     "photo":"download.png",
     "name":"Rathan Chinthala",
     "email":"rathanvenkat143@gmail.com",
-    "mobile":"944444555"
+    "mobile":"9444445555"
   },
   "Education":[
     {
@@ -29,5 +29,19 @@
     "2012-2013",
     "90"]
   }
-  ]
+],
+"skills":[
+  {
+    "name":"operating system",
+  "value":"Linux,Windows"
+},
+{
+  "name":"web Technologies",
+  "value":"HTML,CSS"
+},
+{
+  "name":"programming languages",
+  "value":"c,c++,java"
+}
+]
 }
